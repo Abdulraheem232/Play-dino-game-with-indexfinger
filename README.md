@@ -45,7 +45,7 @@ Before you begin, ensure that you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/dino-game-hand-gesture.git
+git clone https://github.com/Abdulraheem232/dino-game-hand-gesture.git
 cd dino-game-hand-gesture
 ```
 
