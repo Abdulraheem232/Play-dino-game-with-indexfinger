@@ -1,5 +1,4 @@
 
-```markdown
 # Dino Game with Hand Gesture Control
 
 This project uses hand gesture recognition to play the Chrome Dino game by simulating the "spacebar" press when the user's hand moves up.
